@@ -16,5 +16,6 @@ The website showcases various projects, services, and contact functionalities. T
 ## DEMO
 
 1. **Clich here for view:**
+  https://kareenakhan05.github.io/Assignment1/
 
    
